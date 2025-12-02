@@ -308,6 +308,8 @@ public class Main {
         boolean running = true;
 
         while (running) {
+            System.out.println("NAME:ABHINAV ADARSH");
+            System.out.println("ROLL No.: 2401010298");
             System.out.println("\n===== Capstone Student Menu =====");
             System.out.println("1. Add Student");
             System.out.println("2. View All Students");
